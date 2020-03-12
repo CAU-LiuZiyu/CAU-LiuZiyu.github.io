@@ -2,7 +2,7 @@
 layout:     post
 title:      "Amazing Story of Computer Science"
 subtitle:   "Outlines of Crash Course Computer Science from DFTBA"
-date:       2020-03-13  
+date:       2020-03-12
 ---
 
 I watched this fantasitic course [Crash Course Computer Science](https://www.bilibili.com/video/av21376839/) in last few days. It was quite a ENJOY！

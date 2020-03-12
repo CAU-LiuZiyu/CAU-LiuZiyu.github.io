@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ziyu Liu Launches Site"
-date: 2020-03-12
+date: 2020-03-10
 ---
 
 ## Hello, World!

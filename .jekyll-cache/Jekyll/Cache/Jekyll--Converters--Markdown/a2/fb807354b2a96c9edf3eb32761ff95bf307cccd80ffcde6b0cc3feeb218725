@@ -1,0 +1,14 @@
+I"	<p>Here’re the things I plan to do this week.</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Get my new car, a BYD SONG pro EV.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Prepare for lesson 4.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Organize notes on Crash Course Computer Science and make a post.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Try make a daily tracker on this blog.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Translate TDO into Chinese.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Revise the disstertation of YHH.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Draft proposal for CNSF.</li>
+</ul>
+
+<p>It’s way too much trouble to update this list everyday. I’d better figure a way to load a dynamic list on the homepage or a list page.</p>
+:ET
