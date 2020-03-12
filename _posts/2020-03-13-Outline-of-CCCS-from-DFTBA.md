@@ -1,16 +1,15 @@
 ---
-layout:     post                    # 使用的布局（不需要改）
-title:      "Amazing Story of Computer Science"           # 标题 
-subtitle:   "Outlines of Crash Course Computer Science from DFTBA" #副标题
-date:       2020-03-10              # 时间
-header-img: "img/cccs.png"          #这篇文章标题背景图片
+layout:     post
+title:      "Amazing Story of Computer Science"
+subtitle:   "Outlines of Crash Course Computer Science from DFTBA"
+date:       2020-03-13  
 ---
 
 I watched this fantasitic course [Crash Course Computer Science](https://www.bilibili.com/video/av21376839/) in last few days. It was quite a ENJOY！
 
 In case I might forget all about it in the future, I decided to make a outline of it.
 
-Thanks to the effort of [计算机速成课 | Crash Course 字幕组](https://github.com/1c7/crash-course-computer-science-chinese), I extract this outline from the README.md of their repo.
+Thanks to the effort of [计算机速成课字幕组](https://github.com/1c7/crash-course-computer-science-chinese), I extract this outline from the README.md of their repo.
 
 ## 第 1 集：计算机早期历史  
 
