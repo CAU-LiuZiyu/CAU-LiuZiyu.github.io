@@ -1,0 +1,32 @@
+I"�<h2 id="hello-world">Hello, World!</h2>
+
+<blockquote>
+  <p>This is my first blog post.</p>
+</blockquote>
+
+<p>I decided to blog yesterday evening.</p>
+
+<p>The unexamined life is not worth living. Since I’d been seperated with my journal notebook for more than two months, I kinda lost control of my life.</p>
+
+<p>With the help of <a href="http://jmcglone.com/guides/github-pages/">this amazing tutorial</a>, I launch this site today.</p>
+
+<p>First of all, I’d like to review a few things I did in last few days.</p>
+
+<ol>
+  <li>Preparing for lesson 3 of my class <a href="https://github.com/CAU-LiuZiyu/Data-Analysis-with-Python">Data Analysis with Python</a> .</li>
+  <li>Watching the whole 40 episodes of <a href="https://www.bilibili.com/video/av21376839?from=search&amp;seid=6408323632849980995">Crash Course Computer Science </a> .</li>
+  <li>Establishing this blog and making the first post.</li>
+</ol>
+
+<p>Here’re the things I plan to do this week.</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Get my new car, a BYD SONG pro EV.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Prepare for lesson 4.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Organize notes on Crash Course Computer Science and make a post.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Try make a daily tracker on this blog.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Translate TDO into Chinese.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Check the disstertation of YHH.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Draft proposal for CNSF.</li>
+</ul>
+:ET
